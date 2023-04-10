@@ -41,9 +41,9 @@ Seamless landing page with Sign-in (Login) button.
 ![recommendations_ss](https://user-images.githubusercontent.com/116378322/229329423-bcc71970-5c70-4f99-81a4-22623b127753.png)
 
 # Tech Stack and Softwares used
-1. Frontend : HTML5, CSS3, JavaScript, BootStrap, jQuery
+1. Frontend : HTML5, CSS3, JavaScript, BootStrap
 2. Backend : Python flask
-3. Database : PostgreSQL, SQLite3
+3. Database : MySQL
 4. ML model : Jupyter Notebook
 
 # Libraries and Toolkits used
@@ -51,7 +51,7 @@ Python : NumPy, Pandas, ast (Abstract Syntax Trees), pickle
 
 ML : ntlk (Natural Language Toolkit), sklearn (scikit-learn)
 
-SQLite : sqlite3, PyMySQL
+SQLite : PyMySQL
 
 # Future Scope
 Like/Dislike : The option to like or dislike a movie adds the movie to the user's like/dislike list. As of now, I am just accumulating the data. This can be further extended by using the like/dislike list to recommend movies to the user.
